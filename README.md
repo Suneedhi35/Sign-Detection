@@ -1,5 +1,5 @@
 # Sign-Detection
-# 🤟 AI-Enabled Indian Sign Language Communication System
+# 🤟 Indian Sign Language Recognition & Communication System
 
 An AI-powered real-time Indian Sign Language (ISL) recognition and communication system that uses a webcam to detect hand gestures and convert them into readable text.
 
